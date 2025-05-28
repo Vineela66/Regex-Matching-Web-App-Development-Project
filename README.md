@@ -3,10 +3,10 @@
 This is a web-based tool to test and validate **regular expressions (regex)**, built using **Flask** and **Python's `re` module**. 
 
 ##  Features
-✅ Enter a regex pattern and a test string  
-✅ View matches instantly  
-✅ Validate email format using built-in regex  
-✅ Clean and responsive interface
+ Enter a regex pattern and a test string  
+ View matches instantly  
+ Validate email format using built-in regex  
+ Clean and responsive interface
 
  Technology  Purpose                      
  Python        Core programming            
